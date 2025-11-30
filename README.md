@@ -1,5 +1,5 @@
 
-#Macropad
+# Macropad
 
 A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and programmed from scratch. 
 
