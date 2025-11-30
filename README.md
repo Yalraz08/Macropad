@@ -8,14 +8,12 @@ A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and
  
 
 Overview:
-
 This project is a compact macropad that allows a single key press to execute long or complex keyboard shortcuts. It includes: 
 
 1. 9 mechanical keys 
-2. Rotary encoder with push button 
-3. Multiple programmable layers 
-4. Custom PCB designed in KiCad 
-5. Coded with QMK firmware on Arduino Pro Micro 
+2. Rotary encoder with push button (Multiple programmable layers)
+3. Custom PCB designed in KiCad 
+4. Coded with QMK firmware on Arduino Pro Micro 
 
 
 Motivation:
@@ -25,55 +23,21 @@ Instead of buying a keyboard with extra keys, I designed and built a complete ma
 
  
 
-Hardware Design 
-
-PCB (KiCad) 
-
+Hardware Design:
+PCB (Via KiCad)
 Fully custom schematic 
-
 Hand-routed 2-layer design 
-
 Diode-protected 3×3 matrix 
-
 Rotary encoder footprint 
+Pro Micro integration
 
-Pro Micro integration 
-
-Files included: 
-
-macropad.kicad_sch 
-
-macropad.kicad_pcb 
-
-Gerber files 
-
-3D renders (front/back) 
-
-<img src="PCB/PCB Design.jpeg" width="400">  
-
- 
-
- 
-
-Firmware (QMK) 
 
 Firmware written using QMK, including: 
+1. Custom keymap 
+2. Encoder handling (Multiple Layers)
+3. Macros for multi-key shortcuts 
+4. Row/column matrix configuration 
 
-Custom keymap 
-
-Multiple layers 
-
-Encoder handling (volume, navigation, shortcuts) 
-
-Macros for multi-key shortcuts 
-
-Row/column matrix configuration 
-
-Key files: 
-
-keyboard.json 
-
-keymap.c 
 
  
 
