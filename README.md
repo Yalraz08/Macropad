@@ -1,6 +1,6 @@
 
 
-# A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and programmed from scratch. 
+# MACROPAD: A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and programmed from scratch. 
 
 ![WhatsApp Image 2025-11-30 at 06 06 51 (3)](https://github.com/user-attachments/assets/14d8b78e-ccfc-45c5-8d05-7af1a8328631)
 
