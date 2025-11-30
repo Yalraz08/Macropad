@@ -23,13 +23,12 @@ Instead of buying a keyboard with extra keys, I designed and built a complete ma
 
  
 
-Hardware Design:
-PCB (Via KiCad)
-Fully custom schematic 
-Hand-routed 2-layer design 
-Diode-protected 3×3 matrix 
-Rotary encoder footprint 
-Pro Micro integration
+PCB Design:
+1. Using KiCad
+2. Fully custom schematic 
+3. Hand-routed 2-layer design 
+4. Diode-protected 3×3 matrix 
+5. Footprints of different parts (i.e Rotary Encoder, Arduino pro micro, etc)
 
 
 Firmware written using QMK, including: 
@@ -41,54 +40,35 @@ Firmware written using QMK, including:
 
  
 
-Assembly 
-
-All components soldered manually 
-
-Diodes, encoder legs, headers installed by hand 
-
-Debugged row/column issues 
-
-Verified footprint alignment and tolerances 
+Assembly:
+1. Diodes, encoder legs, headers installed by hand
+2. All components soldered manually 
+3. Debugging code
+4. Flashing Arduino Pro-Micro
 
 Pictures in the Pictures/ folder. 
 
+
  
-
-Skills Demonstrated 
-
-PCB Design (KiCad) 
-
-Schematic creation 
-
-Routing & DRC checks 
-
-QMK firmware (C) 
-
-Embedded systems debugging 
-
-Rotary encoder integration 
-
-Soldering (fine components) 
-
-GitHub project documentation 
+Skills Demonstrated:
+1. PCB Design (KiCad) 
+2. QMK firmware (C) 
+3. Embedded systems debugging 
+4. Rotary encoder integration 
+5. Soldering (fine components) 
+6. GitHub project documentation 
 
  
 
-Final Result 
-
-A fully functional macropad with tactile keys, rotary encoder, and multiple layers designed and built entirely from scratch. 
+Final Result:
+ A fully functional macropad with tactile keys, rotary encoder, and multiple layers designed and built entirely from scratch. 
 
  
 
-How to Use 
-
-Flash firmware using QMK Toolbox 
-
-Connect via USB 
-
-Use layer key + encoder for shortcut switching 
-
-Modify keymap.c to customize shortcuts 
+How to Use:
+1. Modify keymap.c to customize shortcuts
+2. Connect via USB 
+3. Use layer key + encoder for shortcut switching 
+4. Flash firmware using QMK Toolbox 
 
  
