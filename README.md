@@ -52,6 +52,9 @@ Assembly:
 Pictures in the Pictures/ folder. 
 
 
+![Complete](https://github.com/user-attachments/assets/40a6fbe5-5880-4253-a1a5-7743e2031746)
+
+
  
 Skills Demonstrated:
 1. PCB Design (KiCad) 
