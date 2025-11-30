@@ -30,6 +30,8 @@ PCB Design:
 4. Diode-protected 3×3 matrix 
 5. Footprints of different parts (i.e Rotary Encoder, Arduino pro micro, etc)
 
+![PCB Design](https://github.com/user-attachments/assets/f84c13a6-9ea3-480e-8874-d562f99d47d8)
+
 
 Firmware written using QMK, including: 
 1. Custom keymap 
