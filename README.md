@@ -1,6 +1,7 @@
 # Macropad
 3X3 Macropad with Rotary encoder.
-![WhatsApp Image 2025-11-30 at 06 06 51 (3)](https://github.com/user-attachments/assets/e9f153c9-e902-496c-a1a6-f96d4da75cc2)
+![WhatsApp Image 2025-11-30 at 06 06 51 (3)](https://github.com/user-attachments/assets/14d8b78e-ccfc-45c5-8d05-7af1a8328631)
+
 
 
 A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and programmed from scratch. 
