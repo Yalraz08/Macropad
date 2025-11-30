@@ -38,7 +38,8 @@ Firmware written using QMK, including:
 1. Custom keymap 
 2. Encoder handling (Multiple Layers)
 3. Macros for multi-key shortcuts 
-4. Row/column matrix configuration 
+4. Row/column matrix configuration
+   
 (Code available in *Firmware Code* Folder)
 
  
@@ -48,6 +49,7 @@ Assembly:
 2. All components soldered manually 
 3. Debugging code
 4. Flashing Arduino Pro-Micro
+
 (Pictures in the *Pictures* folder.) 
 
 
