@@ -39,6 +39,7 @@ Firmware written using QMK, including:
 3. Macros for multi-key shortcuts 
 4. Row/column matrix configuration 
 
+(Code available in *Firmware Code* Folder)
 
  
 
