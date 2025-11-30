@@ -4,9 +4,12 @@
 
 
 
+
+
+
+
 A fully custom 3×3 macropad with rotary encoder designed, routed, soldered, and programmed from scratch. 
 
- 
 
 Overview:
 This project is a compact macropad that allows a single key press to execute long or complex keyboard shortcuts. It includes: 
